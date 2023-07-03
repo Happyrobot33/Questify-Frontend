@@ -1,0 +1,17 @@
+input[type="url"] {
+  font-size: 200px;
+  height: auto;
+}
+
+input[type="submit"] {
+  font-size: 100px;
+  height: auto;
+  width: 100%;
+}
+
+label {
+  font-size: 50px;
+}
+
+
+html, body {margin: 0; height: 100%; overflow: hidden}
